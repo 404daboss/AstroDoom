@@ -1,0 +1,10 @@
+DoomEdNums
+{
+	6000 = SPAS12
+	6002 = E_AN94
+}
+
+Gameinfo
+{
+	titlemusic = "D_TITLE"
+}
