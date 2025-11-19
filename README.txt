@@ -1,3 +1,6 @@
+Map Format: UDMF
+Magic sentence: ".\uzdoom.exe" -iwad "freedoom2.wad" -file "AstroDoom<version>.pk3"
+
 Credits:
 
 AN-94 Mod:
