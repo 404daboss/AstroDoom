@@ -1,10 +1,20 @@
 DoomEdNums
 {
-	6000 = SPAS12
-	6002 = E_AN94
+	2001 = "SPAS12"
+	6002 = "E_AN94"
 }
 
 Gameinfo
 {
 	titlemusic = "D_TITLE"
+	
+}
+
+map MAP01
+{ {
+	levelnum = 1
+	label = "Radioastronomy Complex"
+	music = "D_MAP01"
+	Sky1 = "Sky1"
+	intermusic = "D_INTER"
 }
