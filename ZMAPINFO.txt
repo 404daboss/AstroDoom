@@ -7,6 +7,7 @@ DoomEdNums
 Gameinfo
 {
 	titlemusic = "D_TITLE"
+	intermissionmusic = "D_INTER"
 	
 }
 
@@ -16,5 +17,4 @@ map MAP01
 	label = "Radioastronomy Complex"
 	music = "D_MAP01"
 	Sky1 = "Sky1"
-	intermusic = "D_INTER"
 }
