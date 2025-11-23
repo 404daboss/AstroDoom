@@ -13,8 +13,11 @@ Gameinfo
 
 map MAP01
 { {
-	levelnum = 1
+	levelnum = "1"
 	label = "Radioastronomy Complex"
 	music = "D_MAP01"
 	Sky1 = "Sky1"
+	Author = "Logic44"
+	Titlepatch = "Astro"
+	Par = 120
 }
