@@ -1,0 +1,7 @@
+SPASCOC		SPASCOC2
+SPASFIR		SPASFIRE
+SPASLOA		SPASLOAD
+SPASCLC     SPASCLIC   
+an94/fire		an94fire
+an94/alt		an94alt
+an94/empty		an94empt
