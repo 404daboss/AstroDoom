@@ -1,1 +1,1 @@
-#include "ACTORS/SPAS.txt"
+#include "ACTORS/SPAS"

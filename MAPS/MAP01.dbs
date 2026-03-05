@@ -20,15 +20,35 @@ maps
 			resource0
 			{
 				type = 2;
-				location = "C:\\Users\\monic\\Documents\\Doom Projects\\AstroDoom\\AstroDoom.pk3";
+				location = "C:\\Users\\monic\\Desktop\\UZDOOM\\uzdoom.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 1;
+				requiredarchives = "gzdoom";
+			}
+			
+			resource1
+			{
+				type = 0;
+				location = "C:\\Users\\monic\\Desktop\\UZDOOM\\freedoom1.wad";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+			
+			resource2
+			{
+				type = 0;
+				location = "C:\\Users\\monic\\Desktop\\UZDOOM\\freedoom2.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		viewpositiony = 1440.914f;
-		viewpositionx = 5479.498f;
+		viewpositiony = 1828.154f;
+		viewpositionx = 5773.421f;
 		
 		testprecommand
 		{
@@ -48,11 +68,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 32;
+			gridsize = 64;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 1.639991f;
+		viewscale = 0.5742065f;
 		
 		reloadresourceprecommand
 		{
