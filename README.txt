@@ -17,3 +17,6 @@ Submitted: LossForWords
 Code: LossForWords
 Sounds: Monolith
 Sprites: LossForWords, Joblez, Valve, iD Software.
+
+Dependencies: 
+FreeDoom2 (https://freedoom.github.io/download.html)
