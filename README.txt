@@ -20,3 +20,7 @@ Sprites: LossForWords, Joblez, Valve, iD Software.
 
 Dependencies: 
 FreeDoom2 (https://freedoom.github.io/download.html)
+
+Recommended software:
+DoomRunner (https://github.com/Youda008/DoomRunner)
+UZDoom (https://zdoom.org/downloads)
