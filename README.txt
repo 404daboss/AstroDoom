@@ -1,5 +1,7 @@
 Map Format: UDMF
-Magic sentence: ".\uzdoom.exe" -iwad "freedoom2.wad" -file "AstroDoom<version>.pk3"
+Magic sentence: ".\uzdoom.exe" -iwad "freedoom2.wad" -file "AstroDoom<version>.pk3" (Not Recommended)
+
+If using DoomRunner (Recommended), set IWAD as Freedoom2, and in the "Mod" menu, add and select AstroDoom, do not select any other mods, as compatibility is not 100% guaranteed.
 
 Credits:
 
