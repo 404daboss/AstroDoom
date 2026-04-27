@@ -11,10 +11,12 @@ Gameinfo
 	
 }
 
-map MAP01
-{ {
+map MAP01 "Radioastronomy Complex Alpha"
+{ 
 	levelnum = 1
 	label = "Radioastronomy Complex"
 	music = "D_MAP01"
 	Sky1 = "Sky1"
+	par = 90
+	SuckTime = 1
 }
