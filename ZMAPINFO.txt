@@ -1,7 +1,7 @@
 DoomEdNums
 {
-	2001 = "SPAS12"
-	6002 = "E_AN94"
+	8000 = "SPAS12"
+	2027 = "E_AN94"
 }
 
 Gameinfo
