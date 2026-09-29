@@ -24,3 +24,4 @@ FreeDoom2 (https://freedoom.github.io/download.html)
 Recommended software:
 DoomRunner (https://github.com/Youda008/DoomRunner)
 UZDoom (https://zdoom.org/downloads)
+(A ZDoom based engine is required, there is only ZMAPINFO, and no MAPINFO file that is compatible with most other sourceports)
