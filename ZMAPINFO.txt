@@ -11,6 +11,24 @@ Gameinfo
 	
 }
 
+Intermission Prologue 
+{
+	TextScreen
+	{
+	Text = "SAOC BRIEF 1/22/2045 (MM/DD/YYYY):"
+	Time = 30
+	Music = "D_INTER"
+	TextSpeed = 2
+	}
+	
+	Wiper
+	{
+	WipeType = Crossfade
+	}
+
+}
+
+
 map MAP01 "Radioastronomy Complex Alpha"
 { 
 	levelnum = 1
@@ -18,4 +36,11 @@ map MAP01 "Radioastronomy Complex Alpha"
 	music = "D_MAP01"
 	par = 90
 	SuckTime = 1
+}
+
+map MAP02 "Suborbital Launch Control"
+{
+	levelnum = 2
+	label = "Launch Control"
+	music = "D_MAP02"
 }
