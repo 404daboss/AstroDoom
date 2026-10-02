@@ -11,24 +11,6 @@ Gameinfo
 	
 }
 
-Intermission Prologue 
-{
-	TextScreen
-	{
-	Text = "SAOC BRIEF 1/22/2045 (MM/DD/YYYY):"
-	Time = 30
-	Music = "D_INTER"
-	TextSpeed = 2
-	}
-	
-	Wiper
-	{
-	WipeType = Crossfade
-	}
-
-}
-
-
 map MAP01 "Radioastronomy Complex Alpha"
 { 
 	levelnum = 1
