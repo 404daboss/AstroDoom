@@ -21,7 +21,7 @@ map MAP01 "Radioastronomy Complex Alpha"
 	Outro
 	{
 	video = "CUTSCENE/INTRO.ivf"
-	sound = "INTRO.wav"
+	sound = "INTRO.ogg"
 	}
 }
 
